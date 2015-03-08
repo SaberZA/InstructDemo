@@ -16,25 +16,37 @@
     <AppXManifest Include="C:\Users\Steven\Documents\Visual Studio 2012\Projects\Instruct\Instruct.WindowsStore\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-03-08T12:27:54.760</Modified>
+      <Modified>2015-03-08T13:26:28.999</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Steven\Documents\Visual Studio 2012\Projects\Instruct\Instruct.WindowsStore\bin\Debug\Instruct.WindowsStore.exe">
       <PackagePath>Instruct.WindowsStore.exe</PackagePath>
-      <Modified>2015-03-08T12:27:54.377</Modified>
+      <Modified>2015-03-08T13:26:28.919</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Steven\Documents\Visual Studio 2012\Projects\Instruct\Instruct.WindowsStore\bin\Debug\Instruct.WindowsStore.pdb">
       <PackagePath>Instruct.WindowsStore.pdb</PackagePath>
-      <Modified>2015-03-08T12:27:54.366</Modified>
+      <Modified>2015-03-08T13:26:28.909</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Steven\Documents\Visual Studio 2012\Projects\Instruct\Instruct.Core\bin\Debug\Instruct.Core.dll">
       <PackagePath>Instruct.Core.dll</PackagePath>
-      <Modified>2015-03-08T12:13:03.782</Modified>
+      <Modified>2015-03-08T13:20:48.329</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Steven\Documents\Visual Studio 2012\Projects\Instruct\Instruct.Core\bin\Debug\Microsoft.Threading.Tasks.dll">
+    <AppxPackagedFile Include="C:\Users\Steven\Documents\Visual Studio 2012\Projects\Instruct\packages\Microsoft.Bcl.Async.1.0.168\lib\win8\Microsoft.Threading.Tasks.dll">
       <PackagePath>Microsoft.Threading.Tasks.dll</PackagePath>
-      <Modified>2015-03-08T09:11:39.806</Modified>
+      <Modified>2015-03-08T09:11:39.836</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Steven\Documents\Visual Studio 2012\Projects\Instruct\packages\Microsoft.Bcl.Async.1.0.168\lib\win8\Microsoft.Threading.Tasks.Extensions.dll">
+      <PackagePath>Microsoft.Threading.Tasks.Extensions.dll</PackagePath>
+      <Modified>2015-03-08T09:11:39.837</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Steven\Documents\Visual Studio 2012\Projects\Instruct\packages\Microsoft.Net.Http.2.2.29\lib\win8\System.Net.Http.Extensions.dll">
+      <PackagePath>System.Net.Http.Extensions.dll</PackagePath>
+      <Modified>2015-03-08T10:33:19.461</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Steven\Documents\Visual Studio 2012\Projects\Instruct\packages\Microsoft.Net.Http.2.2.29\lib\win8\System.Net.Http.Primitives.dll">
+      <PackagePath>System.Net.Http.Primitives.dll</PackagePath>
+      <Modified>2015-03-08T10:33:19.463</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Steven\Documents\Visual Studio 2012\Projects\Instruct\Instruct.Core\bin\Debug\Newtonsoft.Json.dll">
       <PackagePath>Newtonsoft.Json.dll</PackagePath>
@@ -42,7 +54,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Steven\Documents\Visual Studio 2012\Projects\Instruct\Instruct.Core\bin\Debug\Instruct.Core.pdb">
       <PackagePath>Instruct.Core.pdb</PackagePath>
-      <Modified>2015-03-08T12:13:03.772</Modified>
+      <Modified>2015-03-08T13:20:48.319</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Steven\Documents\Visual Studio 2012\Projects\Instruct\Instruct.WindowsStore\Assets\Logo.png">
       <PackagePath>Assets\Logo.png</PackagePath>

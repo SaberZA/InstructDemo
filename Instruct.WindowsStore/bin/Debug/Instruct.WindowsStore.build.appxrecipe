@@ -22,8 +22,17 @@
     <AppxPackagedFile Include="C:\Users\Steven\Documents\Visual Studio 2012\Projects\Instruct\Instruct.Core\bin\Debug\Instruct.Core.dll">
       <PackagePath>Instruct.Core.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Steven\Documents\Visual Studio 2012\Projects\Instruct\Instruct.Core\bin\Debug\Microsoft.Threading.Tasks.dll">
+    <AppxPackagedFile Include="C:\Users\Steven\Documents\Visual Studio 2012\Projects\Instruct\packages\Microsoft.Bcl.Async.1.0.168\lib\win8\Microsoft.Threading.Tasks.dll">
       <PackagePath>Microsoft.Threading.Tasks.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Steven\Documents\Visual Studio 2012\Projects\Instruct\packages\Microsoft.Bcl.Async.1.0.168\lib\win8\Microsoft.Threading.Tasks.Extensions.dll">
+      <PackagePath>Microsoft.Threading.Tasks.Extensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Steven\Documents\Visual Studio 2012\Projects\Instruct\packages\Microsoft.Net.Http.2.2.29\lib\win8\System.Net.Http.Extensions.dll">
+      <PackagePath>System.Net.Http.Extensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Steven\Documents\Visual Studio 2012\Projects\Instruct\packages\Microsoft.Net.Http.2.2.29\lib\win8\System.Net.Http.Primitives.dll">
+      <PackagePath>System.Net.Http.Primitives.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Steven\Documents\Visual Studio 2012\Projects\Instruct\Instruct.Core\bin\Debug\Newtonsoft.Json.dll">
       <PackagePath>Newtonsoft.Json.dll</PackagePath>

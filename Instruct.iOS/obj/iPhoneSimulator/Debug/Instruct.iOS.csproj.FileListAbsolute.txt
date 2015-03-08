@@ -9,7 +9,6 @@ C:\Users\Steven\Documents\Visual Studio 2012\Projects\Instruct\Instruct.iOS\bin\
 C:\Users\Steven\Documents\Visual Studio 2012\Projects\Instruct\Instruct.iOS\bin\iPhoneSimulator\Debug\System.Threading.Tasks.dll
 C:\Users\Steven\Documents\Visual Studio 2012\Projects\Instruct\Instruct.iOS\bin\iPhoneSimulator\Debug\System.Net.Http.dll
 C:\Users\Steven\Documents\Visual Studio 2012\Projects\Instruct\Instruct.iOS\bin\iPhoneSimulator\Debug\Instruct.Core.pdb
-C:\Users\Steven\Documents\Visual Studio 2012\Projects\Instruct\Instruct.iOS\bin\iPhoneSimulator\Debug\Instruct.Core.dll.mdb
 C:\Users\Steven\Documents\Visual Studio 2012\Projects\Instruct\Instruct.iOS\bin\iPhoneSimulator\Debug\Microsoft.Threading.Tasks.xml
 C:\Users\Steven\Documents\Visual Studio 2012\Projects\Instruct\Instruct.iOS\bin\iPhoneSimulator\Debug\Microsoft.Threading.Tasks.Extensions.xml
 C:\Users\Steven\Documents\Visual Studio 2012\Projects\Instruct\Instruct.iOS\bin\iPhoneSimulator\Debug\System.Net.Http.Extensions.xml
@@ -27,3 +26,4 @@ C:\Users\Steven\Documents\Visual Studio 2012\Projects\Instruct\Instruct.iOS\obj\
 C:\Users\Steven\Documents\Visual Studio 2012\Projects\Instruct\Instruct.iOS\obj\iPhoneSimulator\Debug\InstructiOS.pdb
 C:\Users\Steven\Documents\Visual Studio 2012\Projects\Instruct\Instruct.iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.dll
 C:\Users\Steven\Documents\Visual Studio 2012\Projects\Instruct\Instruct.iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.xml
+C:\Users\Steven\Documents\Visual Studio 2012\Projects\Instruct\Instruct.iOS\bin\iPhoneSimulator\Debug\Instruct.Core.dll.mdb

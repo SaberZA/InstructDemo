@@ -128,7 +128,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Instruct.Core\Instruct.Core.csproj">
-      <Project>{78EBDC0D-7868-4242-B46F-F4D0C37510B8}</Project>
+      <Project>{166bb3fb-341d-4779-b1de-95eb82587760}</Project>
       <Name>Instruct.Core</Name>
     </ProjectReference>
   </ItemGroup>

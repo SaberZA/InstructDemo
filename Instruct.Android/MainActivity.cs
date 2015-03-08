@@ -13,7 +13,6 @@ namespace Instruct.Android
     [Activity(Label = "Instruct.Android", MainLauncher = true, Icon = "@drawable/icon")]
     public class MainActivity : Activity
     {
-        int count = 1;
         private ListView _listView;
 
         protected override void OnCreate(Bundle bundle)
