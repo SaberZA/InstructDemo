@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SAB3R</Machine>
+    <WindowsUser>Steven</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>900470F43864F15BCB07FA8FD09EF633B4F07F6AF2037EB5BBB479FB6ED73CCA</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>c53c94ae-8185-44cc-91bc-bf52baa1298b_1.0.0.0_neutral__mdkh4ynn2814y</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>c53c94ae-8185-44cc-91bc-bf52baa1298b_mdkh4ynn2814y!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>c53c94ae-8185-44cc-91bc-bf52baa1298b</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Steven</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Steven\Documents\Visual Studio 2012\Projects\Instruct\Instruct.WindowsStore\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-08T12:27:54.760</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Steven\Documents\Visual Studio 2012\Projects\Instruct\Instruct.WindowsStore\bin\Debug\Instruct.WindowsStore.exe">
+      <PackagePath>Instruct.WindowsStore.exe</PackagePath>
+      <Modified>2015-03-08T12:27:54.377</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Steven\Documents\Visual Studio 2012\Projects\Instruct\Instruct.WindowsStore\bin\Debug\Instruct.WindowsStore.pdb">
+      <PackagePath>Instruct.WindowsStore.pdb</PackagePath>
+      <Modified>2015-03-08T12:27:54.366</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Steven\Documents\Visual Studio 2012\Projects\Instruct\Instruct.Core\bin\Debug\Instruct.Core.dll">
+      <PackagePath>Instruct.Core.dll</PackagePath>
+      <Modified>2015-03-08T12:13:03.782</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Steven\Documents\Visual Studio 2012\Projects\Instruct\Instruct.Core\bin\Debug\Microsoft.Threading.Tasks.dll">
+      <PackagePath>Microsoft.Threading.Tasks.dll</PackagePath>
+      <Modified>2015-03-08T09:11:39.806</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Steven\Documents\Visual Studio 2012\Projects\Instruct\Instruct.Core\bin\Debug\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2015-03-08T09:11:40.133</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Steven\Documents\Visual Studio 2012\Projects\Instruct\Instruct.Core\bin\Debug\Instruct.Core.pdb">
+      <PackagePath>Instruct.Core.pdb</PackagePath>
+      <Modified>2015-03-08T12:13:03.772</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Steven\Documents\Visual Studio 2012\Projects\Instruct\Instruct.WindowsStore\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Steven\Documents\Visual Studio 2012\Projects\Instruct\Instruct.WindowsStore\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Steven\Documents\Visual Studio 2012\Projects\Instruct\Instruct.WindowsStore\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Steven\Documents\Visual Studio 2012\Projects\Instruct\Instruct.WindowsStore\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Steven\Documents\Visual Studio 2012\Projects\Instruct\Instruct.WindowsStore\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2015-03-08T12:20:41.148</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Steven\Documents\Visual Studio 2012\Projects\Instruct\Instruct.WindowsStore\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T14:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Steven\Documents\Visual Studio 2012\Projects\Instruct\Instruct.WindowsStore\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2015-03-08T12:25:47.647</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Steven\Documents\Visual Studio 2012\Projects\Instruct\Instruct.WindowsStore\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-03-08T12:27:54.595</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

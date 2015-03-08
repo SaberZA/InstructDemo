@@ -1,0 +1,1 @@
+C:\Users\Steven\Documents\Visual Studio 2012\Projects\Instruct\Instruct.WindowsStore\Instruct.WindowsStore.csproj;neutral
